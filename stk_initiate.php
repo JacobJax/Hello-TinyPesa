@@ -9,7 +9,7 @@
     );
     $headers = array(
         "Content-Type: application/json",
-        "ApiKey: XaYak3HqTpr"
+        "ApiKey: "
     );
 
     $data_options = json_encode($data);
