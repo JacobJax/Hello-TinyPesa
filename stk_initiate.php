@@ -4,12 +4,12 @@
     
     $data = array(
         'amount' => 1,
-        'msisdn' => '254745522419',
+        'msisdn' => '254712345678',
         'account_no'=> 'BitRate'
     );
     $headers = array(
         "Content-Type: application/json",
-        "ApiKey: "
+        "ApiKey: " // Enter API Key here
     );
 
     $data_options = json_encode($data);
